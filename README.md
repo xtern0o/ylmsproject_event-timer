@@ -1,4 +1,4 @@
-# ylmsproject_event-timer
+# yandex lms project "event timer"
 Yandex lms QT project
 
 [RUSSIAN LANG]
