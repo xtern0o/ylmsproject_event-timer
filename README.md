@@ -1,7 +1,7 @@
 # yandex lms project "event timer" 
 Yandex lms QT project 
 
-# FROZEN DEV!
+### FROZEN DEV!
 
 [RUSSIAN LANG]
 
